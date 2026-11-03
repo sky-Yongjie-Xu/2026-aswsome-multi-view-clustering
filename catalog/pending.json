@@ -1,0 +1,114 @@
+[
+  {
+    "year": 2024,
+    "venue": "KDD",
+    "title": "Tensorized Unaligned Multi-view Clustering with Multi-scale Representation Learning",
+    "source": "https://doi.org/10.1145/3637528.3671689",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2024,
+    "venue": "ACMMM",
+    "title": "Enhanced Tensorial Self-representation Subspace Learning for Incomplete Multi-view Clustering",
+    "source": "https://doi.org/10.1145/3664647.3681573",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2024,
+    "venue": "ACMMM",
+    "title": "Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering",
+    "source": "https://doi.org/10.1145/3664647.3681346",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2024,
+    "venue": "ACMMM",
+    "title": "Robust Prototype Completion for Incomplete Multi-view Clustering",
+    "source": "https://doi.org/10.1145/3664647.3681397",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "DUIMC: Deep Unbalanced Incomplete Multi-View Clustering via Graph Constrained Imputation and Contrastive Learning",
+    "source": "https://doi.org/10.1145/3746027.3754735",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Deep Variational Incomplete Multi-View Clustering with Information-Theoretic Guidance",
+    "source": "https://doi.org/10.1145/3746027.3755970",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Dual-Level Distribution Alignment for Deep Incomplete Multi-View Clustering",
+    "source": "https://doi.org/10.1145/3746027.3754592",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Energy-based Deep Incomplete Multi-View Clustering",
+    "source": "https://doi.org/10.1145/3746027.3755365",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Federated Incomplete Multi-view Clustering with Individual Structure Preservation and Central Representation Tensorization",
+    "source": "https://doi.org/10.1145/3746027.3755799",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Robust Multi-view Clustering via Pseudo Label Guided Universum Learning",
+    "source": "https://doi.org/10.1145/3746027.3755205",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering",
+    "source": "https://doi.org/10.1145/3746027.3755787",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Scalable One-step Unaligned Multi-view Clustering via Joint High-Order Correlation Learning",
+    "source": "https://doi.org/10.1145/3746027.3755172",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2025,
+    "venue": "ACMMM",
+    "title": "Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding",
+    "source": "https://doi.org/10.1145/3746027.3755021",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2026,
+    "venue": "KDD",
+    "title": "Hypergraph-Based Unaligned Multi-View Clustering via Cluster-Aware Feature Extraction",
+    "source": "https://doi.org/10.1145/3770855.3817741",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2026,
+    "venue": "NeurIPS",
+    "title": "Releasing Anchors from Cross-View Correspondence: Probabilistic Multi-View Anchor Graph Clustering",
+    "source": "https://neurips.cc/virtual/2026/poster/154593",
+    "status": "awaiting accessible full text"
+  },
+  {
+    "year": 2026,
+    "venue": "NeurIPS",
+    "title": "Fed-AGA: An Anchor Graph Alignment Framework for Federated Unaligned Multi-view Clustering",
+    "source": "https://neurips.cc/virtual/2026/poster/155141",
+    "status": "awaiting accessible full text"
+  }
+]

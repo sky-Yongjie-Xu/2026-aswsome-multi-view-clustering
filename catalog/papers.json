@@ -1,0 +1,2109 @@
+[
+  {
+    "id": "2026-DDR-IMVC-ICLR",
+    "year": 2026,
+    "method": "DDR-IMVC",
+    "venue": "ICLR",
+    "title": "Debiased and Denoised Representation Learning for Incomplete Multi-view Clustering",
+    "category": "01_缺失与噪声统一建模/01_缺失与观测噪声",
+    "path": "papers/01_缺失与噪声统一建模/01_缺失与观测噪声/2026-DDR-IMVC-ICLR.pdf",
+    "sha256": "88a5a44a3a9e2ee0a2d5769218ff0e038cc7ede833bdd940333943396f84c873",
+    "bytes": 1671151,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7749f9c0d5ff109231be21e910a3ced2-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/7749f9c0d5ff109231be21e910a3ced2-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-DDR-IMVC-ICLR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-GLGC-CVPR",
+    "year": 2026,
+    "method": "GLGC",
+    "venue": "CVPR",
+    "title": "Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data",
+    "category": "01_缺失与噪声统一建模/01_缺失与观测噪声",
+    "path": "papers/01_缺失与噪声统一建模/01_缺失与观测噪声/2026-GLGC-CVPR.pdf",
+    "sha256": "cd371760a3c0ca3a41817325dbf5f8ee8ec03074b97560977ceb7d6355b10962",
+    "bytes": 1353523,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/He_Global-Graph_Guided_and_Local-Graph_Weighted_Contrastive_Learning_for_Unified_Clustering_CVPR_2026_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/papers/He_Global-Graph_Guided_and_Local-Graph_Weighted_Contrastive_Learning_for_Unified_Clustering_CVPR_2026_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-GLGC-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/01_缺失与噪声统一建模/01_缺失与观测噪声/补充材料/2026-GLGC-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2026/supplemental/He_Global-Graph_Guided_and_CVPR_2026_supplemental.pdf",
+        "sha256": "d89b39210403623c2e25d2470c0fe113fee2bb9b37adf9bb55b184dce01b9641",
+        "bytes": 1356499
+      }
+    ]
+  },
+  {
+    "id": "2026-RAC-DMVC-AAAI",
+    "year": 2026,
+    "method": "RAC-DMVC",
+    "venue": "AAAI",
+    "title": "RAC-DMVC: Reliability-Aware Contrastive Deep Multi-View Clustering Under Multi-Source Noise",
+    "category": "01_缺失与噪声统一建模/01_缺失与观测噪声",
+    "path": "papers/01_缺失与噪声统一建模/01_缺失与观测噪声/2026-RAC-DMVC-AAAI.pdf",
+    "sha256": "7f31d00851358d50004d0bd9b699e9d8b36790ccf0e1e5fe76dcb7796b7258da",
+    "bytes": 523165,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39223",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39223/43184"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-RAC-DMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-OPTION-ICML",
+    "year": 2026,
+    "method": "OPTION",
+    "venue": "ICML",
+    "title": "OPTION: Optimal Transport–Guided Flow Matching for Incomplete and Unaligned Multi-View Clustering",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2026-OPTION-ICML.pdf",
+    "sha256": "071c20b34a612bce593ba2931e2192268366e5805aa93be5379fb3cc20a423dc",
+    "bytes": 7468467,
+    "source_page": "https://proceedings.mlr.press/v306/zhou26l.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26l/zhou26l.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-OPTION-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-PLCI-NeurIPS",
+    "year": 2026,
+    "method": "PLCI",
+    "venue": "NeurIPS",
+    "title": "Robust Multi-view Clustering against Imperfect Information",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2026-PLCI-NeurIPS.pdf",
+    "sha256": "fd897b9c37cac62fa47dd2bc03ec515d8c8d75590380c843d11ea2be1bc0571d",
+    "bytes": 3619944,
+    "source_page": "https://neurips.cc/virtual/2026/poster/156004",
+    "pdf_sources": [
+      "https://arxiv.org/pdf/2606.04343"
+    ],
+    "publication_status": "accepted",
+    "version_note": "official program verified accepted; PDF version as provided by source",
+    "original_filename": "2026-PLCI-NeurIPS.pdf",
+    "supplements": [],
+    "html_url": "https://arxiv.org/html/2606.04343"
+  },
+  {
+    "id": "2025-CAPIMAC-IJCAI",
+    "year": 2025,
+    "method": "CAPIMAC",
+    "venue": "IJCAI",
+    "title": "Consistency-Aware Padding for Incomplete Multi-Modal Alignment Clustering Based on Self-Repellent Greedy Anchor Search",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2025-CAPIMAC-IJCAI.pdf",
+    "sha256": "3ebbba9524e1cca39cfca52e561686e8b8fdea77b201d4c4b278fedb8922acd8",
+    "bytes": 1254050,
+    "source_page": "https://ijcai.org/proceedings/2025/659",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0659.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-CAPIMAC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-DLPMAC-ACMMM",
+    "year": 2025,
+    "method": "DLPMAC",
+    "venue": "ACM MM",
+    "title": "Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2025-DLPMAC-ACMMM.pdf",
+    "sha256": "7a52029e8c4bbee0394594432311eda293bf65e18081e3b9a065b003f5867f3e",
+    "bytes": 2512881,
+    "source_page": "https://doi.org/10.1145/3746027.3755116",
+    "pdf_sources": [
+      "https://arxiv.org/pdf/2606.27984v1"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-DLPMAC-ACMMM.pdf",
+    "supplements": [],
+    "html_url": "https://arxiv.org/html/2606.27984v1"
+  },
+  {
+    "id": "2025-DRUMVC-IJCAI",
+    "year": 2025,
+    "method": "DRUMVC",
+    "venue": "IJCAI",
+    "title": "Dual Robust Unbiased Multi-View Clustering for Incomplete and Unpaired Information",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2025-DRUMVC-IJCAI.pdf",
+    "sha256": "8facd79ffae8111dd893ab2ce11fdd1715d73d8fb32199e608f4e30a7e55da62",
+    "bytes": 12739711,
+    "source_page": "https://ijcai.org/proceedings/2025/789",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0789.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-DRUMVC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-KOALA-AAAI",
+    "year": 2025,
+    "method": "KOALA",
+    "venue": "AAAI",
+    "title": "KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering",
+    "category": "01_缺失与噪声统一建模/02_缺失与跨视图错配",
+    "path": "papers/01_缺失与噪声统一建模/02_缺失与跨视图错配/2025-KOALA-AAAI.pdf",
+    "sha256": "b994bf5f8b4e66227550c8e185448db373396626e1cea05785a8353908009d13",
+    "bytes": 728093,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/35461",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/35461/37616"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-KOALA-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-ACOVA-ICML",
+    "year": 2026,
+    "method": "ACOVA",
+    "venue": "ICML",
+    "title": "Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2026-ACOVA-ICML.pdf",
+    "sha256": "d86ac5216452a393e6ead13b57be90067cdd9d281e4a1d6c991530d13f8b3b44",
+    "bytes": 3378245,
+    "source_page": "https://proceedings.mlr.press/v306/xu26az.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26az/xu26az.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-ACOVA-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-CSMVC-IJCAI",
+    "year": 2026,
+    "method": "CSMVC",
+    "venue": "IJCAI",
+    "title": "Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2026-CSMVC-IJCAI.pdf",
+    "sha256": "0c2f8105ac3b54f7469490a58a4a9229451d74520f6df74ff326f5c61f0469c7",
+    "bytes": 1656020,
+    "source_page": "https://ijcai.org/proceedings/2026/489",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2026/0489.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CSMVC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-GAVIM-AAAI",
+    "year": 2026,
+    "method": "GAVIM",
+    "venue": "AAAI",
+    "title": "Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2026-GAVIM-AAAI.pdf",
+    "sha256": "1b936193c59b3c2361e4dcf6ee3bd45e02aaecfa4f9a16c720d0437f90fb1484",
+    "bytes": 903096,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39117",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39117/43079"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-GAVIM-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-BACDL-ICML",
+    "year": 2025,
+    "method": "BACDL",
+    "venue": "ICML",
+    "title": "Bifurcate then Alienate: Incomplete Multi-view Clustering via Coupled Distribution Learning with Linear Overhead",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2025-BACDL-ICML.pdf",
+    "sha256": "9d1bad1963cf7d92e48646368838ce4b302512522b8dc21308b43f0590df4561",
+    "bytes": 908715,
+    "source_page": "https://proceedings.mlr.press/v267/yu25b.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25b/yu25b.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-BACDL-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-CPMN-NeurIPS",
+    "year": 2025,
+    "method": "CPMN",
+    "venue": "NeurIPS",
+    "title": "Learning from Disjoint Views: A Contrastive Prototype Matching Network for Fully Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2025-CPMN-NeurIPS.pdf",
+    "sha256": "f10d387728cb1fdc026a0a7e7b656a901a606b67295a0aebfa64e82f9b46698d",
+    "bytes": 1310745,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1a7a22152cd21f0ca3c0f8139bb32905-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/1a7a22152cd21f0ca3c0f8139bb32905-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-CPMN-NeurIPS.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/补充材料/2025-CPMN-NeurIPS-supplement.zip",
+        "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/1a7a22152cd21f0ca3c0f8139bb32905-Supplemental-Conference.zip",
+        "sha256": "5cde81f43603f9a0107d5f608a8230b3c0f58a0b2a494bf00502c958cc1d4ce2",
+        "bytes": 269217
+      }
+    ]
+  },
+  {
+    "id": "2025-FreeCSL-CVPR",
+    "year": 2025,
+    "method": "FreeCSL",
+    "venue": "CVPR",
+    "title": "Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2025-FreeCSL-CVPR.pdf",
+    "sha256": "46f48e8363559f793948c0d6614b42fcdf101180473d04c925bb3ce39cd86f92",
+    "bytes": 4417116,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-FreeCSL-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/补充材料/2025-FreeCSL-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2025/supplemental/Dai_Imputation-free_and_Alignment-free_CVPR_2025_supplemental.pdf",
+        "sha256": "e7105b0ebb6ea482ede9b919369f76427a9e764e669623956cc4861fca5572e9",
+        "bytes": 2745327
+      }
+    ]
+  },
+  {
+    "id": "2025-I2MVC-IJCAI",
+    "year": 2025,
+    "method": "I2MVC",
+    "venue": "IJCAI",
+    "title": "Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2025-I2MVC-IJCAI.pdf",
+    "sha256": "3e76ebe7d64f41d09455964b35c729e33609aebd0b763920d19660dd501c5181",
+    "bytes": 1542865,
+    "source_page": "https://ijcai.org/proceedings/2025/731",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0731.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-I2MVC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-DVIMC-AAAI",
+    "year": 2024,
+    "method": "DVIMC",
+    "venue": "AAAI",
+    "title": "Deep Variational Incomplete Multi-View Clustering: Exploring Shared Clustering Structures",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2024-DVIMC-AAAI.pdf",
+    "sha256": "889ab12fe25e5b1eae0726b32819c8a321ce17d647071cdf463b978351646652",
+    "bytes": 4499739,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29548",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29548/30915"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-DVIMC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-ICMVC-AAAI",
+    "year": 2024,
+    "method": "ICMVC",
+    "venue": "AAAI",
+    "title": "Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2024-ICMVC-AAAI.pdf",
+    "sha256": "04f0ca0dabafe7b24c4f3124097d4c8a57eaac6e16f82f94b6ba5ca3956780e1",
+    "bytes": 1951323,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29000",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29000/29899"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-ICMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-PVC-SCN-AAAI",
+    "year": 2024,
+    "method": "PVC-SCN",
+    "venue": "AAAI",
+    "title": "Partial Multi-View Clustering via Self-Supervised Network",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2024-PVC-SCN-AAAI.pdf",
+    "sha256": "9b4b40132b3851e0be0264063cf3729b77c4184f1be682a72430350595bf1a08",
+    "bytes": 14646088,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29086",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29086/30054"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-PVC-SCN-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-ToRES-ICML",
+    "year": 2024,
+    "method": "ToRES",
+    "venue": "ICML",
+    "title": "Towards Resource-friendly, Extensible and Stable  Incomplete Multi-view Clustering ",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2024-ToRES-ICML.pdf",
+    "sha256": "83839f60901d3ac7bcb185a9bddb0eb5f9bd1652c0889b62fa63e0c5764bea9e",
+    "bytes": 1153348,
+    "source_page": "https://proceedings.mlr.press/v235/yu24b.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v235/main/assets/yu24b/yu24b.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-ToRES-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-URRL-IMVC-KDD",
+    "year": 2024,
+    "method": "URRL-IMVC",
+    "venue": "KDD",
+    "title": "URRL-IMVC: Unified and Robust Representation Learning for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2024-URRL-IMVC-KDD.pdf",
+    "sha256": "24864ffa77851cf7b7a32f8e9139e6587d40d2b54ef05301487a76116e253e21",
+    "bytes": 1868627,
+    "source_page": "https://doi.org/10.1145/3637528.3671887",
+    "pdf_sources": [
+      "https://arxiv.org/pdf/2407.09120v1"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-URRL-IMVC-KDD.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2023-CPSPAN-CVPR",
+    "year": 2023,
+    "method": "CPSPAN",
+    "venue": "CVPR",
+    "title": "Deep Incomplete Multi-View Clustering With Cross-View Partial Sample and Prototype Alignment",
+    "category": "02_不完备多视角聚类/01_原型语义与免补全学习",
+    "path": "papers/02_不完备多视角聚类/01_原型语义与免补全学习/2023-CPSPAN-CVPR.pdf",
+    "sha256": "c74ed3692ea587100bf1616a1995c04586ae05545e237987900d801b45d11273",
+    "bytes": 913087,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2023-CPSPAN-CVPR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-DIMVC-HIA-AAAI",
+    "year": 2026,
+    "method": "DIMVC-HIA",
+    "venue": "AAAI",
+    "title": "Deep Incomplete Multi-View Clustering via Hierarchical Imputation and Alignment",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-DIMVC-HIA-AAAI.pdf",
+    "sha256": "41d79be24d0af1fe7dad34edba48b4f8c857a44b5ca3731a8d5f4167f953d6fd",
+    "bytes": 1092630,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39235",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39235/43196"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-DIMVC-HIA-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-IASR-IJCAI",
+    "year": 2026,
+    "method": "IASR",
+    "venue": "IJCAI",
+    "title": "Instance-Aligned Semantic Reconstruction for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-IASR-IJCAI.pdf",
+    "sha256": "565829898de0dd9d0477c2f0590113ca81681d270d24ee13e7ade87906e47c7b",
+    "bytes": 609099,
+    "source_page": "https://ijcai.org/proceedings/2026/572",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2026/0572.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-IASR-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-IDCD-ICML",
+    "year": 2026,
+    "method": "IDCD",
+    "venue": "ICML",
+    "title": "Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-IDCD-ICML.pdf",
+    "sha256": "cc8face9c6fb040baa5c80bace036a6bb7824712208ecd389e87124838d7b24e",
+    "bytes": 11208574,
+    "source_page": "https://proceedings.mlr.press/v306/chen26ag.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/chen26ag/chen26ag.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-IDCD-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-IMVC-NCD-ICML",
+    "year": 2026,
+    "method": "IMVC-NCD",
+    "venue": "ICML",
+    "title": "Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-IMVC-NCD-ICML.pdf",
+    "sha256": "ab34c63ae7104eb2f9494dff3c7c7adce3507a5aa28cd44e9e4ceb58377cc8ed",
+    "bytes": 782504,
+    "source_page": "https://proceedings.mlr.press/v306/guo26an.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/guo26an/guo26an.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-IMVC-NCD-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-MAGIC-ICML",
+    "year": 2026,
+    "method": "MAGIC",
+    "venue": "ICML",
+    "title": "Masked Multi-path Contrast with Confidence-Gated Semantic Imputation for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-MAGIC-ICML.pdf",
+    "sha256": "31d2237a8376fef7fb16aeea7a1371d1c4709215e45d6412f60025b8e0f0223c",
+    "bytes": 18547917,
+    "source_page": "https://proceedings.mlr.press/v306/yang26cp.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26cp/yang26cp.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-MAGIC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-Straight-Path-Flow-Matching-for-Incomplete-Multi-View-Clustering-ECCV",
+    "year": 2026,
+    "method": "未核实简称",
+    "venue": "ECCV",
+    "title": "Straight-Path Flow Matching for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2026-Straight-Path-Flow-Matching-for-Incomplete-Multi-View-Clustering-ECCV.pdf",
+    "sha256": "38b4bbe5a867b422d492eceb625a13b16cd7e2189d613f0a80c36c8589ae95e4",
+    "bytes": 1051819,
+    "source_page": "https://eccv.ecva.net/virtual/2026/poster/4641",
+    "pdf_sources": [
+      "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6814.pdf"
+    ],
+    "publication_status": "accepted",
+    "version_note": "official program verified accepted; PDF version as provided by source",
+    "original_filename": "2026-Straight-Path-Flow-Matching-for-Incomplete-Multi-View-Clustering-ECCV.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-BURG-ICCV",
+    "year": 2025,
+    "method": "BURG",
+    "venue": "ICCV",
+    "title": "Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-BURG-ICCV.pdf",
+    "sha256": "2e73edfbfdc578281232703a68cfcc60ceedd775719963e043f84721c2e60b92",
+    "bytes": 1388120,
+    "source_page": "https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Deep_Incomplete_Multi-view_Clustering_with_Distribution_Dual-Consistency_Recovery_Guidance_ICCV_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_Deep_Incomplete_Multi-view_Clustering_with_Distribution_Dual-Consistency_Recovery_Guidance_ICCV_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-BURG-ICCV.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-DCG-AAAI",
+    "year": 2025,
+    "method": "DCG",
+    "venue": "AAAI",
+    "title": "Incomplete Multi-view Clustering via Diffusion Contrastive Generation",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-DCG-AAAI.pdf",
+    "sha256": "d9694be83722e7940a1e91193bbcead17e4148cc13fa1743697e34b9fa553de7",
+    "bytes": 957765,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/34424",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/34424/36579"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-DCG-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-GHICMC-AAAI",
+    "year": 2025,
+    "method": "GHICMC",
+    "venue": "AAAI",
+    "title": "Global Graph Propagation with Hierarchical Information Transfer for Incomplete Contrastive Multi-view Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-GHICMC-AAAI.pdf",
+    "sha256": "2d63ca265732c4770e6f85038f6f5b98da87491572e69586be3e54449597d360",
+    "bytes": 1270539,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/33725",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/33725/35880"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-GHICMC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-HSACC-NeurIPS",
+    "year": 2025,
+    "method": "HSACC",
+    "venue": "NeurIPS",
+    "title": "Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-HSACC-NeurIPS.pdf",
+    "sha256": "e25d93080bd520492d74ade281ba5eca51dce061f44a2971c0af3ceddfaf30fd",
+    "bytes": 2775459,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4b2a917e30e1bb1aff055b4d8c6c081c-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/4b2a917e30e1bb1aff055b4d8c6c081c-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-HSACC-NeurIPS.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/补充材料/2025-HSACC-NeurIPS-supplement.zip",
+        "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4b2a917e30e1bb1aff055b4d8c6c081c-Supplemental-Conference.zip",
+        "sha256": "e738db567a740875fb5eea03fc7f1e4b093a6d9fb95ec0a602ca195dddaef8fb",
+        "bytes": 44861756
+      }
+    ]
+  },
+  {
+    "id": "2025-IMDC-DIA-NeurIPS",
+    "year": 2025,
+    "method": "IMDC-DIA",
+    "venue": "NeurIPS",
+    "title": "Incomplete Multi-view Deep Clustering with Data Imputation and Alignment",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-IMDC-DIA-NeurIPS.pdf",
+    "sha256": "d9b730fb736d6396e2dd06174da2cb99490d7c66d2ca5a7054c97018a8f18d2c",
+    "bytes": 627715,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/8092824cd98b783ccba168446141d822-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/8092824cd98b783ccba168446141d822-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-IMDC-DIA-NeurIPS.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-IMVCLRCA-WSDM",
+    "year": 2025,
+    "method": "IMVCLRCA",
+    "venue": "WSDM",
+    "title": "Incomplete Multi-view Clustering via Local Reasoning and Correlation Analysis",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2025-IMVCLRCA-WSDM.pdf",
+    "sha256": "23688e7fab9465df18b5b0800ae60e1d479b8d6f82b468f3b1836f317120cbf0",
+    "bytes": 892549,
+    "source_page": "https://doi.org/10.1145/3701551.3703495",
+    "pdf_sources": [
+      "https://qingyushi475.github.io/files/wsdm25.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-IMVCLRCA-WSDM.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-AGDIMC-AAAI",
+    "year": 2024,
+    "method": "AGDIMC",
+    "venue": "AAAI",
+    "title": "Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2024-AGDIMC-AAAI.pdf",
+    "sha256": "591cd152336496927c3caa5a3a9f477921078f6bf09a66807f53c873c8ec9701",
+    "bytes": 705300,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29380",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29380/30606"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-AGDIMC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-DMVG-ICML",
+    "year": 2024,
+    "method": "DMVG",
+    "venue": "ICML",
+    "title": "Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2024-DMVG-ICML.pdf",
+    "sha256": "17bf4b7ec8547da8cad1a2fb0c70e6e09a986b190529a1d3ab0265b8de521d04",
+    "bytes": 9368256,
+    "source_page": "https://proceedings.mlr.press/v235/wen24c.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v235/main/assets/wen24c/wen24c.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-DMVG-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2023-ProImp-IJCAI",
+    "year": 2023,
+    "method": "ProImp",
+    "venue": "IJCAI",
+    "title": "Incomplete Multi-view Clustering via Prototype-based Imputation",
+    "category": "02_不完备多视角聚类/02_生成补全与关系恢复",
+    "path": "papers/02_不完备多视角聚类/02_生成补全与关系恢复/2023-ProImp-IJCAI.pdf",
+    "sha256": "14039405ebfb923ec3a9af453b7d90780e9b222d0a0f91133bdd5e2da1637a92",
+    "bytes": 2594881,
+    "source_page": "https://www.ijcai.org/proceedings/2023/435",
+    "pdf_sources": [
+      "https://www.ijcai.org/proceedings/2023/0435.pdf",
+      "https://arxiv.org/pdf/2301.11045"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2023-PIM-IJCAI.pdf",
+    "supplements": [],
+    "html_url": "https://arxiv.org/html/2301.11045"
+  },
+  {
+    "id": "2026-CIMLN-ICML",
+    "year": 2026,
+    "method": "CIMLN",
+    "venue": "ICML",
+    "title": "Alleviating Observation Bias via Causal-Invariant Meta-Learning  for Unbalanced Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/03_缺失不均衡与补全可靠性",
+    "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/2026-CIMLN-ICML.pdf",
+    "sha256": "ac7ce950622c2719c9528e3b640a12dd257ea13d4d41b2d33915a723f238d0c6",
+    "bytes": 5982070,
+    "source_page": "https://proceedings.mlr.press/v306/jin26n.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/jin26n/jin26n.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CIMLN-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-ICER-CVPR",
+    "year": 2026,
+    "method": "ICER",
+    "venue": "CVPR",
+    "title": "Imbalanced View Contribution Evaluation and Refinement for Deep Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/03_缺失不均衡与补全可靠性",
+    "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/2026-ICER-CVPR.pdf",
+    "sha256": "06e843514adfc4c84019fe2e63a90ddfee0445c57b5a6d6b03970c41e3a6f0bf",
+    "bytes": 2277278,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Imbalanced_View_Contribution_Evaluation_and_Refinement_for_Deep_Incomplete_Multi-View_CVPR_2026_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Imbalanced_View_Contribution_Evaluation_and_Refinement_for_Deep_Incomplete_Multi-View_CVPR_2026_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-ICER-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/补充材料/2026-ICER-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhou_Imbalanced_View_Contribution_CVPR_2026_supplemental.pdf",
+        "sha256": "cdb937b8768acf3b928860bb2a3165bfb3dfce7b134d053e81673e900cf4bf12",
+        "bytes": 2306490
+      }
+    ]
+  },
+  {
+    "id": "2026-IMC-GCSW-AAAI",
+    "year": 2026,
+    "method": "IMC-GCSW",
+    "venue": "AAAI",
+    "title": "Sample Weighted Incomplete Multimodal Clustering Based on Graph Coarsening Label Extraction",
+    "category": "02_不完备多视角聚类/03_缺失不均衡与补全可靠性",
+    "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/2026-IMC-GCSW-AAAI.pdf",
+    "sha256": "d380ec9ec6d498561dbf04e2ddd566f7ca529e4cad76a978241956ecb3c4bdd9",
+    "bytes": 10920097,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39575",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39575/43536"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-IMC-GCSW-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-BRIDGE-ICCV",
+    "year": 2025,
+    "method": "BRIDGE",
+    "venue": "ICCV",
+    "title": "A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns",
+    "category": "02_不完备多视角聚类/03_缺失不均衡与补全可靠性",
+    "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/2025-BRIDGE-ICCV.pdf",
+    "sha256": "e2fdc11777713892d9398642ee2ac1dd5aec1804e9875dce4077064517f6afcc",
+    "bytes": 8249200,
+    "source_page": "https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-BRIDGE-ICCV.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/补充材料/2025-BRIDGE-ICCV-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/ICCV2025/supplemental/Jiang_A_Unified_Framework_ICCV_2025_supplemental.pdf",
+        "sha256": "85b93bd8918887449a2aec79832f4d7614015d32e423d5506255071514acf6e7",
+        "bytes": 1444744
+      }
+    ]
+  },
+  {
+    "id": "2025-SI3-arXiv",
+    "year": 2025,
+    "method": "SI3",
+    "venue": "arXiv",
+    "title": "Simple Yet Effective Selective Imputation for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/03_缺失不均衡与补全可靠性",
+    "path": "papers/02_不完备多视角聚类/03_缺失不均衡与补全可靠性/2025-SI3-arXiv.pdf",
+    "sha256": "1701da952ba77a2607febc77c6af38229112dd6220e60e4f15e00b7f5cbfa33d",
+    "bytes": 4809070,
+    "source_page": "https://arxiv.org/abs/2512.10327v2",
+    "pdf_sources": [
+      "https://arxiv.org/pdf/2512.10327v2"
+    ],
+    "publication_status": "preprint",
+    "version_note": "arXiv 预印本；首次公开 2025，当前归档为 2026 年 v2 修订；正式发表会议未核实",
+    "original_filename": "2026-SI3-arXiv.pdf",
+    "supplements": [],
+    "html_url": "https://arxiv.org/html/2512.10327v2"
+  },
+  {
+    "id": "2026-EFDMVC-AAAI",
+    "year": 2026,
+    "method": "EFDMVC",
+    "venue": "AAAI",
+    "title": "Enhanced Federated Deep Multi-View Clustering Under Uncertainty Scenario",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2026-EFDMVC-AAAI.pdf",
+    "sha256": "2593171c51cfef220f9e5b9e1d080e6812983bc2ee57492aa984666d9130438a",
+    "bytes": 552454,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39891",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39891/43852"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-EFDMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-EvoFMVC-AAAI",
+    "year": 2026,
+    "method": "EvoFMVC",
+    "venue": "AAAI",
+    "title": "EvoFMVC: Trusted Federated Multi-View Clustering with Evolutionary Fusion",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2026-EvoFMVC-AAAI.pdf",
+    "sha256": "115367713dac2d9044f8441ac654ec53a385c5979bbdcc80de6332193aed6065",
+    "bytes": 876205,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/40057",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/40057/44018"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-EvoFMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-FIMVC-TLRC-AAAI",
+    "year": 2026,
+    "method": "FIMVC-TLRC",
+    "venue": "AAAI",
+    "title": "Federated Incomplete Multi-View Clustering with Tensorized Low-Rank Constraint",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2026-FIMVC-TLRC-AAAI.pdf",
+    "sha256": "6cec18588701b5db382c9512ac74f28f15518f6bef913cbd68b7321c2267e505",
+    "bytes": 1697790,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39251",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39251/43212"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-FIMVC-TLRC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-AMMGC-CVPR",
+    "year": 2025,
+    "method": "AMMGC",
+    "venue": "CVPR",
+    "title": "Attribute-Missing Multi-view Graph Clustering",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-AMMGC-CVPR.pdf",
+    "sha256": "5d5f0e1ff007008f7626620b8551cddad8c409bb6c0cefbb3689701ada5513d5",
+    "bytes": 3978062,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attribute-Missing_Multi-view_Graph_Clustering_CVPR_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Attribute-Missing_Multi-view_Graph_Clustering_CVPR_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-AMMGC-CVPR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-EFIMVC-ICML",
+    "year": 2025,
+    "method": "EFIMVC",
+    "venue": "ICML",
+    "title": "Efficient Federated Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-EFIMVC-ICML.pdf",
+    "sha256": "ffd153848a20af59d6a7f3c00b4a42f49dbb53e8c753da2a57dbb6fe36a69a37",
+    "bytes": 1250645,
+    "source_page": "https://proceedings.mlr.press/v267/liu25cq.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25cq/liu25cq.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-EFIMVC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-FIMCFG-ICML",
+    "year": 2025,
+    "method": "FIMCFG",
+    "venue": "ICML",
+    "title": "Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-FIMCFG-ICML.pdf",
+    "sha256": "e81383673c487945f47ca538b73cc16e3d927b60e47015f6e65ba75c370fd8ad",
+    "bytes": 2425276,
+    "source_page": "https://proceedings.mlr.press/v267/chao25a.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/chao25a/chao25a.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-FIMCFG-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-FMVC-IAI-IJCAI",
+    "year": 2025,
+    "method": "FMVC-IAI",
+    "venue": "IJCAI",
+    "title": "Federated Multi-view Graph Clustering with Incomplete Attribute Imputation",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-FMVC-IAI-IJCAI.pdf",
+    "sha256": "f7be9f2290e2d6026e27825c1e0ad40388b40eba8848a1dfac08745b6cedf6a2",
+    "bytes": 340463,
+    "source_page": "https://ijcai.org/proceedings/2025/570",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0570.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-FMVC-IAI-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-MGCCFF-AAAI",
+    "year": 2025,
+    "method": "MGCCFF",
+    "venue": "AAAI",
+    "title": "Incomplete and Unpaired Multi-View Graph Clustering with Cross-View Feature Fusion",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-MGCCFF-AAAI.pdf",
+    "sha256": "b6281fb8165e01aad3622a7f0432aee0a43a64a8b3916f8462c30c92e3b80ca8",
+    "bytes": 285630,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/34439",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/34439/36594"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-MGCCFF-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-TOTF-IJCAI",
+    "year": 2025,
+    "method": "TOTF",
+    "venue": "IJCAI",
+    "title": "TOTF: Missing-Aware Encoders for Clustering on Multi-View Incomplete Attributed Graphs",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2025-TOTF-IJCAI.pdf",
+    "sha256": "e8486f27b8860c64343ed84f8671530c52ffe5022bd5a2a9b2d61d7880f3128e",
+    "bytes": 668007,
+    "source_page": "https://ijcai.org/proceedings/2025/340",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0340.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-TOTF-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-FMCSC-NeurIPS",
+    "year": 2024,
+    "method": "FMCSC",
+    "venue": "NeurIPS",
+    "title": "Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2024-FMCSC-NeurIPS.pdf",
+    "sha256": "2e5f1ddd2d64e04c4fc646e46526ae18a7cbf39c4d827939bb0cef32e058e503",
+    "bytes": 2870507,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/412fb8623bf8b6d56fb6285ea295447e-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/file/412fb8623bf8b6d56fb6285ea295447e-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-FMCSC-NeurIPS.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/补充材料/2024-FMCSC-NeurIPS-supplement.zip",
+        "source": "https://proceedings.neurips.cc/paper_files/paper/2024/file/412fb8623bf8b6d56fb6285ea295447e-Supplemental-Conference.zip",
+        "sha256": "d35132cb99c2b90802b169b377c0a174fac5d7e04f64a3dc35da2eb793b550a4",
+        "bytes": 47696071
+      }
+    ]
+  },
+  {
+    "id": "2024-RAM-MVC-ACMMM",
+    "year": 2024,
+    "method": "RAM-MVC",
+    "venue": "ACM MM",
+    "title": "Reliable Attribute-missing Multi-view Clustering with Instance-level and feature-level Cooperative Imputation",
+    "category": "02_不完备多视角聚类/04_图数据与联邦扩展",
+    "path": "papers/02_不完备多视角聚类/04_图数据与联邦扩展/2024-RAM-MVC-ACMMM.pdf",
+    "sha256": "b3909c31a79f439b2e0ea83b7e7dea6e57884ec9fa8c7990ea6e8721f800afe7",
+    "bytes": 5162893,
+    "source_page": "https://doi.org/10.1145/3664647.3680997",
+    "pdf_sources": [
+      "https://xinzhongzhu.github.io/document/MM2.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-RAM-MVC-ACMMM.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-AGLF-AAAI",
+    "year": 2026,
+    "method": "AGLF",
+    "venue": "AAAI",
+    "title": "Cross-view Anchor Graph Learning and Factorization for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-AGLF-AAAI.pdf",
+    "sha256": "e5bf81308d858010077993448a5e4886e58489d8e98ee5e14e892260102d591f",
+    "bytes": 849656,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39865",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39865/43826"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-AGLF-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-ARSL-IMVC-ICLR",
+    "year": 2026,
+    "method": "ARSL-IMVC",
+    "venue": "ICLR",
+    "title": "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-ARSL-IMVC-ICLR.pdf",
+    "sha256": "697395ae88ce1add44c4b1e96d03c600d9d78cd267dbb89313c64f5e22f92221",
+    "bytes": 2600940,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/80e354fdac2c7fbf439a51f4853edbac-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/80e354fdac2c7fbf439a51f4853edbac-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-ARSL-IMVC-ICLR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/补充材料/2026-ARSL-IMVC-ICLR-supplement.zip",
+        "source": "https://proceedings.iclr.cc/paper_files/paper/2026/file/80e354fdac2c7fbf439a51f4853edbac-Supplemental-Conference.zip",
+        "sha256": "2184973198fadaf76a1aaf01cb78562421732bc9a7c5ca9dfd8f264567c45dd7",
+        "bytes": 738398
+      }
+    ]
+  },
+  {
+    "id": "2026-CAMEL-ICLR",
+    "year": 2026,
+    "method": "CAMEL",
+    "venue": "ICLR",
+    "title": "Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-CAMEL-ICLR.pdf",
+    "sha256": "245f640e7738073035670311666dbeb8053998069dfd9e40ddc64eb3315058c2",
+    "bytes": 2047284,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/88438dc62fc5c8777e2b5f1b4f6d37a2-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/88438dc62fc5c8777e2b5f1b4f6d37a2-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CAMEL-ICLR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/补充材料/2026-CAMEL-ICLR-supplement.zip",
+        "source": "https://proceedings.iclr.cc/paper_files/paper/2026/file/88438dc62fc5c8777e2b5f1b4f6d37a2-Supplemental-Conference.zip",
+        "sha256": "90d3999584d48782b8c965e42255b7e34c4a6c415eefe87fc91e323fb1633b6e",
+        "bytes": 3606953
+      }
+    ]
+  },
+  {
+    "id": "2026-CARD-ICML",
+    "year": 2026,
+    "method": "CARD",
+    "venue": "ICML",
+    "title": "Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-CARD-ICML.pdf",
+    "sha256": "27b6b148fc945daaf9f7a20b1ed824826e62452e03d4bc8c46321aeb6d6ee7d1",
+    "bytes": 5324184,
+    "source_page": "https://proceedings.mlr.press/v306/zhao26az.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhao26az/zhao26az.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CARD-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-CBDS-IMVC-ICLR",
+    "year": 2026,
+    "method": "CBDS-IMVC",
+    "venue": "ICLR",
+    "title": "Confident Block Diagonal Structure-Aware Invariable Graph Completion for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-CBDS-IMVC-ICLR.pdf",
+    "sha256": "952fb069178fcc6cb1295efdf2cab5797f8fa1453ac9cc1fff9eb3332c8a14af",
+    "bytes": 17410751,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/a2825fc792a1ebfdd45051b01aa5a180-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/a2825fc792a1ebfdd45051b01aa5a180-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CBDS-IMVC-ICLR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-DGIMVCM-AAAI",
+    "year": 2026,
+    "method": "DGIMVCM",
+    "venue": "AAAI",
+    "title": "Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-DGIMVCM-AAAI.pdf",
+    "sha256": "380472b24fa4955dcee490dcc6f0d16e2610eedaad17a01ada42eb9cedb76e7a",
+    "bytes": 1660017,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/40091",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/40091/44052"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-DGIMVCM-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-HA-IMVC-ICML",
+    "year": 2026,
+    "method": "HA-IMVC",
+    "venue": "ICML",
+    "title": "A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-HA-IMVC-ICML.pdf",
+    "sha256": "0b2d7b0fe1003de578db93e3c65310033f5f2748daf795692c955be3c105c746",
+    "bytes": 1720799,
+    "source_page": "https://proceedings.mlr.press/v306/hu26ag.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/hu26ag/hu26ag.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-HA-IMVC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-OSMAGC-CVPR",
+    "year": 2026,
+    "method": "OSMAGC",
+    "venue": "CVPR",
+    "title": "Orthogonal Spatial-Aware Multi-View Anchor Graph Clustering for Incomplete Remote Sensing Data",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-OSMAGC-CVPR.pdf",
+    "sha256": "372e370ef4c31f2d2b247c09e78a9e2af9997700e5d5788d945224c7e4cb2e74",
+    "bytes": 9874986,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Orthogonal_Spatial-Aware_Multi-View_Anchor_Graph_Clustering_for_Incomplete_Remote_Sensing_CVPR_2026_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Orthogonal_Spatial-Aware_Multi-View_Anchor_Graph_Clustering_for_Incomplete_Remote_Sensing_CVPR_2026_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-OSMAGC-CVPR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-PJFTH-CVPR",
+    "year": 2026,
+    "method": "PJFTH",
+    "venue": "CVPR",
+    "title": "Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2026-PJFTH-CVPR.pdf",
+    "sha256": "ab548fe93f7d43edc490eae542dde563ae4cf12ff27d2c2ae850a0de6a42dfa9",
+    "bytes": 765955,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Plug-and-Play_Incomplete_Multi-View_Clustering_via_Janus-Faced_Affinity_Learning_with_Topology_CVPR_2026_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Plug-and-Play_Incomplete_Multi-View_Clustering_via_Janus-Faced_Affinity_Learning_with_Topology_CVPR_2026_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-PJFTH-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/补充材料/2026-PJFTH-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2026/supplemental/Yu_Plug-and-Play_Incomplete_Multi-View_CVPR_2026_supplemental.pdf",
+        "sha256": "652f64fa4c888b181d2c66beb7cdc987f0eafbb787bf7ea70b4932c5a5d7bcb4",
+        "bytes": 389020
+      }
+    ]
+  },
+  {
+    "id": "2025-ASCR-AAAI",
+    "year": 2025,
+    "method": "ASCR",
+    "venue": "AAAI",
+    "title": "Fast Incomplete Multi-view Clustering with Adaptive Similarity Completion and Reconstruction",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-ASCR-AAAI.pdf",
+    "sha256": "3c8b18dd5b6ce3863edea6d5c6216b8629f1551fd0762f7d97fea74187e28222",
+    "bytes": 1622590,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/35478",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/35478/37633"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-ASCR-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-CAL-IJCAI",
+    "year": 2025,
+    "method": "CAL",
+    "venue": "IJCAI",
+    "title": "Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-CAL-IJCAI.pdf",
+    "sha256": "bb267cbccdefeb381e5abd835a1f016f8e2a13a1b2f9b4c019f2dff6fb937205",
+    "bytes": 1983732,
+    "source_page": "https://ijcai.org/proceedings/2025/641",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0641.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-CAL-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-FIML-ICML",
+    "year": 2025,
+    "method": "FIML",
+    "venue": "ICML",
+    "title": "Fast Incomplete Multi-view Clustering by Flexible Anchor Learning",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-FIML-ICML.pdf",
+    "sha256": "3a6dce7c5a324b9ffbe7fccccbd5c935864220fcfb51605ee592dd0d0ee35c07",
+    "bytes": 12367876,
+    "source_page": "https://proceedings.mlr.press/v267/qin25b.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/qin25b/qin25b.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-FIML-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-GUITAR-NeurIPS",
+    "year": 2025,
+    "method": "GUITAR",
+    "venue": "NeurIPS",
+    "title": "Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-GUITAR-NeurIPS.pdf",
+    "sha256": "8127de27b50ec57917897cdbf5c7848409fc5e7978012c579fcfd15eb536b40e",
+    "bytes": 1940073,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/684c59d614fe6ae74a3be8c3ef07e061-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/684c59d614fe6ae74a3be8c3ef07e061-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-GUITAR-NeurIPS.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/补充材料/2025-GUITAR-NeurIPS-supplement.zip",
+        "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/684c59d614fe6ae74a3be8c3ef07e061-Supplemental-Conference.zip",
+        "sha256": "2c4e25a11fdc733fc758b236918cbee97a8bae71793a32d46b560af95c261868",
+        "bytes": 82856836
+      }
+    ]
+  },
+  {
+    "id": "2025-HLSCG-IMC-IJCAI",
+    "year": 2025,
+    "method": "HLSCG-IMC",
+    "venue": "IJCAI",
+    "title": "High-Confident Local Structure Guided Consensus Graph Learning For Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-HLSCG-IMC-IJCAI.pdf",
+    "sha256": "b2252b5ad873d4668507bb76dc6e09fad3df0cdf3acd99e1896dbbf5d8583bc3",
+    "bytes": 1074992,
+    "source_page": "https://ijcai.org/proceedings/2025/792",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0792.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-HLSCG-IMC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-JVILG-IJCAI",
+    "year": 2025,
+    "method": "JVILG",
+    "venue": "IJCAI",
+    "title": "Learn Multi-task Anchor: Joint View Imputation and Label Generation for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-JVILG-IJCAI.pdf",
+    "sha256": "1b6c168b56aaca3d8b3b4285c9115dbd5b9ebc540f5c00af6921c12a3397c992",
+    "bytes": 926918,
+    "source_page": "https://ijcai.org/proceedings/2025/718",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0718.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-JVILG-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-LRGR-IJCAI",
+    "year": 2025,
+    "method": "LRGR",
+    "venue": "IJCAI",
+    "title": "LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-LRGR-IJCAI.pdf",
+    "sha256": "96efe34e748d4d43337be2b8368a8190f27f5030f90edb7f2518c839bcedcc14",
+    "bytes": 2275652,
+    "source_page": "https://ijcai.org/proceedings/2025/737",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0737.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-LRGR-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-RGCL-IJCAI",
+    "year": 2025,
+    "method": "RGCL",
+    "venue": "IJCAI",
+    "title": "Robust Graph Contrastive Learning for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-RGCL-IJCAI.pdf",
+    "sha256": "d69cd5a91876f30661d3671cd6cbddef30f2ac2c6203f14810b4a5213427ff38",
+    "bytes": 3008515,
+    "source_page": "https://ijcai.org/proceedings/2025/810",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0810.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-RGCL-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-RISE-AAAI",
+    "year": 2025,
+    "method": "RISE",
+    "venue": "AAAI",
+    "title": "Highly Efficient Rotation-Invariant Spectral Embedding for Scalable Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-RISE-AAAI.pdf",
+    "sha256": "6761a3a5fd4da4d383151fefb362252649799d0578a382860e922bcef086ed64",
+    "bytes": 681482,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/35431",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/35431/37586"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-RISE-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-SFCR-AAAI",
+    "year": 2025,
+    "method": "SFCR",
+    "venue": "AAAI",
+    "title": "Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-SFCR-AAAI.pdf",
+    "sha256": "0def6da99b73687e881569c82498a32b9c78079ba9623a2f031236ff87179e44",
+    "bytes": 1687537,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/33937",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/33937/36092"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-SFCR-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-SIIHPC-ICLR",
+    "year": 2025,
+    "method": "SIIHPC",
+    "venue": "ICLR",
+    "title": "Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-SIIHPC-ICLR.pdf",
+    "sha256": "7992c75943d00688aa997333703ee061829fe7c96733a838e29451a5be3e07b0",
+    "bytes": 974745,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/14c856c7a41297804de4c4890e846b25-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2025/file/14c856c7a41297804de4c4890e846b25-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-SIIHPC-ICLR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-SOME-AS-AAAI",
+    "year": 2025,
+    "method": "SOME-AS",
+    "venue": "AAAI",
+    "title": "Scalable One-Pass Incomplete Multi-View Clustering by Aligning Anchors",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2025-SOME-AS-AAAI.pdf",
+    "sha256": "199887d1062ab5607112dd0a1711c52e8c5b104338124b6b09f6706ffb14ea4d",
+    "bytes": 219455,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/34207",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/34207/36362"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-SOME-AS-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-AIMC-CVR-NeurIPS",
+    "year": 2024,
+    "method": "AIMC-CVR",
+    "venue": "NeurIPS",
+    "title": "Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2024-AIMC-CVR-NeurIPS.pdf",
+    "sha256": "0b928faccaad418dad1c879fb0f9d2bd289325963270b3bb5fdf46c8f7177947",
+    "bytes": 1380786,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/9f42f06a54ce3b709ad78d34c73e4363-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-AIMC-CVR-NeurIPS.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-DVSAI-AAAI",
+    "year": 2024,
+    "method": "DVSAI",
+    "venue": "AAAI",
+    "title": "DVSAI: Diverse View-Shared Anchors Based Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2024-DVSAI-AAAI.pdf",
+    "sha256": "deb26e3b9f3e68b0ef10a7311f6691f173fbb3c0f997fb4bd3304910d2fa4d58",
+    "bytes": 330521,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29595",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29595/31003"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-DVSAI-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-EDISON-ICML",
+    "year": 2024,
+    "method": "EDISON",
+    "venue": "ICML",
+    "title": "EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2024-EDISON-ICML.pdf",
+    "sha256": "b90de3acf81cdb2bcd628e392a61da5b8977d83c06dd4421e9c7d47ef818e385",
+    "bytes": 1112614,
+    "source_page": "https://proceedings.mlr.press/v235/gu24b.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v235/main/assets/gu24b/gu24b.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-EDISON-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-LRKT-IMVC-AAAI",
+    "year": 2024,
+    "method": "LRKT-IMVC",
+    "venue": "AAAI",
+    "title": "Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2024-LRKT-IMVC-AAAI.pdf",
+    "sha256": "2fbd866aeb7583c6da8bba9fbae86fdb9a22d9ab3ce8dc9b04324bb6a1f075e7",
+    "bytes": 1514327,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29526",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29526/30874"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-LRKT-IMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-SCSL-AAAI",
+    "year": 2024,
+    "method": "SCSL",
+    "venue": "AAAI",
+    "title": "Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/05_图结构锚点与高效优化",
+    "path": "papers/02_不完备多视角聚类/05_图结构锚点与高效优化/2024-SCSL-AAAI.pdf",
+    "sha256": "e3a5d914c6c82162d0ba2c88f54f34fc2f60ecbf955e3ebc092f9f475b0c21e0",
+    "bytes": 325081,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29310",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29310/30472"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-SCSL-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-ALMC-CVPR",
+    "year": 2026,
+    "method": "ALMC",
+    "venue": "CVPR",
+    "title": "Anti-Degradation Lifelong Multi-View Clustering",
+    "category": "02_不完备多视角聚类/06_持续与增量学习",
+    "path": "papers/02_不完备多视角聚类/06_持续与增量学习/2026-ALMC-CVPR.pdf",
+    "sha256": "a5d1a20c64ecfa6b82dbf76a8d52718287a5e412b1dffdf0f9eb0eccff886668",
+    "bytes": 2197916,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-ALMC-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/06_持续与增量学习/补充材料/2026-ALMC-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2026/supplemental/Li_Anti-Degradation_Lifelong_Multi-View_CVPR_2026_supplemental.pdf",
+        "sha256": "0555a9196c8f031d1d076d0949f33ee5bfc9cb1541673f8c80a4aa3a869ca600",
+        "bytes": 873983
+      }
+    ]
+  },
+  {
+    "id": "2025-AdaptCMVC-CVPR",
+    "year": 2025,
+    "method": "AdaptCMVC",
+    "venue": "CVPR",
+    "title": "AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering",
+    "category": "02_不完备多视角聚类/06_持续与增量学习",
+    "path": "papers/02_不完备多视角聚类/06_持续与增量学习/2025-AdaptCMVC-CVPR.pdf",
+    "sha256": "d0df44c1e882beeff26c22a8994d36ffa796dff5cd3d4c264f4333fe3fd2d321",
+    "bytes": 2054049,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-AdaptCMVC-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/02_不完备多视角聚类/06_持续与增量学习/补充材料/2025-AdaptCMVC-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2025/supplemental/Wang_AdaptCMVC_Robust_Adaption_CVPR_2025_supplemental.pdf",
+        "sha256": "667024e5d87edb4fa2f67b82f3a9a5a26d874ef2ea22321fe62c2f23011ca4b5",
+        "bytes": 2058263
+      }
+    ]
+  },
+  {
+    "id": "2025-BSTM-NeurIPS",
+    "year": 2025,
+    "method": "BSTM",
+    "venue": "NeurIPS",
+    "title": "Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios",
+    "category": "02_不完备多视角聚类/06_持续与增量学习",
+    "path": "papers/02_不完备多视角聚类/06_持续与增量学习/2025-BSTM-NeurIPS.pdf",
+    "sha256": "d7bdafb9b9cf5ebbbb70b7501b87ece03a7027737b9429acb36848513916a4c7",
+    "bytes": 1665842,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/654f61ecd998c9095d30d42c03b832aa-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/654f61ecd998c9095d30d42c03b832aa-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-BSTM-NeurIPS.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-AFIMVC-AAAI",
+    "year": 2026,
+    "method": "AFIMVC",
+    "venue": "AAAI",
+    "title": "Adversarial Fair Incomplete Multi-View Clustering",
+    "category": "02_不完备多视角聚类/07_公平性约束",
+    "path": "papers/02_不完备多视角聚类/07_公平性约束/2026-AFIMVC-AAAI.pdf",
+    "sha256": "d239974d6a1a64853ca4eda4e2095417e3e71095537e60a64cdcf6d6ad5dfba0",
+    "bytes": 1809256,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/37967",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/37967/41929"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-AFIMVC-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-FIMVC-DA-IJCAI",
+    "year": 2025,
+    "method": "FIMVC-DA",
+    "venue": "IJCAI",
+    "title": "Fair Incomplete Multi-View Clustering via Distribution Alignment",
+    "category": "02_不完备多视角聚类/07_公平性约束",
+    "path": "papers/02_不完备多视角聚类/07_公平性约束/2025-FIMVC-DA-IJCAI.pdf",
+    "sha256": "587a3c144769f795a237a13b02405762cad00bf3f9629ee6fc735c90baada6ef",
+    "bytes": 1521125,
+    "source_page": "https://ijcai.org/proceedings/2025/710",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2025/0710.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-FIMVC-DA-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-CLIB-ICLR",
+    "year": 2026,
+    "method": "CLIB",
+    "venue": "ICLR",
+    "title": "Calibrated Information Bottleneck for Trusted Multi-modal Clustering",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2026-CLIB-ICLR.pdf",
+    "sha256": "ab7d45fc291644f59e3b8e189e83eb9e4ef91e659344d9b4f32a800e63929a50",
+    "bytes": 1983882,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/988fca84a5240fbd15601e17df57256a-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/988fca84a5240fbd15601e17df57256a-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CLIB-ICLR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-GAPS-AAAI",
+    "year": 2026,
+    "method": "GAPS",
+    "venue": "AAAI",
+    "title": "Multi-View Clustering with Granularity-Aware Pseudo Supervision",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2026-GAPS-AAAI.pdf",
+    "sha256": "81165b5f30f9c7864a3d04c98fcb329446bfcd7f9ccebe0b0121657ca9a85029",
+    "bytes": 3366235,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/39973",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/39973/43934"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-GAPS-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2026-HAMC-ICML",
+    "year": 2026,
+    "method": "HAMC",
+    "venue": "ICML",
+    "title": "Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2026-HAMC-ICML.pdf",
+    "sha256": "95b1bd04c707fd40f456b21a6dfa665a4c69257bee72484d4b3a96b8d0922341",
+    "bytes": 5317219,
+    "source_page": "https://proceedings.mlr.press/v306/wang26de.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26de/wang26de.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-HAMC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-AIRMVC-ICML",
+    "year": 2025,
+    "method": "AIRMVC",
+    "venue": "ICML",
+    "title": "Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2025-AIRMVC-ICML.pdf",
+    "sha256": "73dd1ba5431b6cd8bb2528bdd860553849390ecd4225d8b1b1d3e45c420beadc",
+    "bytes": 10164915,
+    "source_page": "https://proceedings.mlr.press/v267/yang25am.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/yang25am/yang25am.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-AIRMVC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-RCSC-ICML",
+    "year": 2025,
+    "method": "RCSC",
+    "venue": "ICML",
+    "title": "Robust Consensus Anchor Learning for Efficient Multi-view Subspace Clustering",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2025-RCSC-ICML.pdf",
+    "sha256": "923aabbbcdd7605a235c49cc0bd607731cc5c9ccd5e581d99478bed6369b4d9d",
+    "bytes": 454094,
+    "source_page": "https://proceedings.mlr.press/v267/qin25e.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/qin25e/qin25e.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-RCSC-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-RML-ICCV",
+    "year": 2025,
+    "method": "RML",
+    "venue": "ICCV",
+    "title": "Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2025-RML-ICCV.pdf",
+    "sha256": "08c03032a5ad203156c09b2fc3c5d0e5c0509ca6e749db67fcf4c18fd43e4813",
+    "bytes": 1649412,
+    "source_page": "https://openaccess.thecvf.com/content/ICCV2025/html/Xu_Robust_Multi-View_Learning_via_Representation_Fusion_of_Sample-Level_Attention_and_ICCV_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Robust_Multi-View_Learning_via_Representation_Fusion_of_Sample-Level_Attention_and_ICCV_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-RML-ICCV.pdf",
+    "supplements": [
+      {
+        "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/补充材料/2025-RML-ICCV-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/ICCV2025/supplemental/Xu_Robust_Multi-View_Learning_ICCV_2025_supplemental.pdf",
+        "sha256": "90f763f2e9c50f32feab54b25a8ca219093d48ea2ff69842fc5c25637b034aed",
+        "bytes": 2857324
+      }
+    ]
+  },
+  {
+    "id": "2025-STCMC-UR-AAAI",
+    "year": 2025,
+    "method": "STCMC-UR",
+    "venue": "AAAI",
+    "title": "Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2025-STCMC-UR-AAAI.pdf",
+    "sha256": "b6eb167ad7943937439e27048d0cdcf45599c55dc7f0104f37ce1010ec921923",
+    "bytes": 1034527,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/33902",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/33902/36057"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-STCMC-UR-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-AR-DMVC-AM-ICML",
+    "year": 2024,
+    "method": "AR-DMVC-AM",
+    "venue": "ICML",
+    "title": "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2024-AR-DMVC-AM-ICML.pdf",
+    "sha256": "413995a4628925618c8ad405db96d981a4efb08a2f8b6db1b526124689b70ef1",
+    "bytes": 9955517,
+    "source_page": "https://proceedings.mlr.press/v235/huang24ai.html",
+    "pdf_sources": [
+      "https://raw.githubusercontent.com/mlresearch/v235/main/assets/huang24ai/huang24ai.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-AR-DMVC-AM-ICML.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-MVCAN-CVPR",
+    "year": 2024,
+    "method": "MVCAN",
+    "venue": "CVPR",
+    "title": "Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios",
+    "category": "03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性",
+    "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/2024-MVCAN-CVPR.pdf",
+    "sha256": "befbb8a7c73073f5a048ad8939cd279a09bf45125bea7a3ab6433e38ccdf1628",
+    "bytes": 2992695,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Investigating_and_Mitigating_the_Side_Effects_of_Noisy_Views_for_CVPR_2024_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Investigating_and_Mitigating_the_Side_Effects_of_Noisy_Views_for_CVPR_2024_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-MVCAN-CVPR.pdf",
+    "supplements": [
+      {
+        "path": "papers/03_噪声鲁棒多视角聚类/01_观测噪声与视图可靠性/补充材料/2024-MVCAN-CVPR-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/CVPR2024/supplemental/Xu_Investigating_and_Mitigating_CVPR_2024_supplemental.pdf",
+        "sha256": "f74e27d18495269215610b5e624c9d827e6170744a241998eabf8dd6313c36d0",
+        "bytes": 5943357
+      }
+    ]
+  },
+  {
+    "id": "2026-CorreGen-ICLR",
+    "year": 2026,
+    "method": "CorreGen",
+    "venue": "ICLR",
+    "title": "Uncover Underlying Correspondence for Robust Multi-view Clustering",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2026-CorreGen-ICLR.pdf",
+    "sha256": "021053de9438ab629b5812affee92cb81426f2c536543509dd38bf905bc87d89",
+    "bytes": 10343296,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8c1d92835eb4e601f396c97ec60439fe-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2026/file/8c1d92835eb4e601f396c97ec60439fe-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2026-CorreGen-ICLR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-AF-UMC-NeurIPS",
+    "year": 2025,
+    "method": "AF-UMC",
+    "venue": "NeurIPS",
+    "title": "AF-UMC: An Alignment-Free Fusion Framework for Unaligned Multi-View Clustering",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2025-AF-UMC-NeurIPS.pdf",
+    "sha256": "cad307cef385793be617e0deb7a1a827f5a67cfb11f098ea5f53286aad23e010",
+    "bytes": 7840150,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/965484d5b2b2624ba17295612a3ba7e8-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/965484d5b2b2624ba17295612a3ba7e8-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-AF-UMC-NeurIPS.pdf",
+    "supplements": [
+      {
+        "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/补充材料/2025-AF-UMC-NeurIPS-supplement.zip",
+        "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/965484d5b2b2624ba17295612a3ba7e8-Supplemental-Conference.zip",
+        "sha256": "186d6cd846435c93f097d2442f4cffe69b18ff8b8d6fe78169b2062185df845b",
+        "bytes": 20158205
+      }
+    ]
+  },
+  {
+    "id": "2025-CauMVC-ICCV",
+    "year": 2025,
+    "method": "CauMVC",
+    "venue": "ICCV",
+    "title": "Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2025-CauMVC-ICCV.pdf",
+    "sha256": "567fa59caacfe30805517ff47c4b124c41ae1f2a0e18afec92aec781803a08db",
+    "bytes": 6634438,
+    "source_page": "https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-CauMVC-ICCV.pdf",
+    "supplements": [
+      {
+        "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/补充材料/2025-CauMVC-ICCV-supplement.pdf",
+        "source": "https://openaccess.thecvf.com/content/ICCV2025/supplemental/Yang_Generalized_Deep_Multi-view_ICCV_2025_supplemental.pdf",
+        "sha256": "67e127edfe380c205070a0d4246354e21046b489a04fb54061d859797bdc8a10",
+        "bytes": 3568798
+      }
+    ]
+  },
+  {
+    "id": "2025-COPER-ICLR",
+    "year": 2025,
+    "method": "COPER",
+    "venue": "ICLR",
+    "title": "COPER: Correlation-based Permutations for Multi-View Clustering",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2025-COPER-ICLR.pdf",
+    "sha256": "274a60277533b9036f5a85d6a54c9a07011a851e06336636cde0f9b5814beef1",
+    "bytes": 1080928,
+    "source_page": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/720719dbe00dcd5210cd5ec3a7399476-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/2025/file/720719dbe00dcd5210cd5ec3a7399476-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-COPER-ICLR.pdf",
+    "supplements": [
+      {
+        "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/补充材料/2025-COPER-ICLR-supplement.zip",
+        "source": "https://proceedings.iclr.cc/paper_files/paper/2025/file/720719dbe00dcd5210cd5ec3a7399476-Supplemental-Conference.zip",
+        "sha256": "dbd7ee7107b64c29a5bccf394ada383734caf4efd74b634214046e8675b8e58c",
+        "bytes": 16337
+      }
+    ]
+  },
+  {
+    "id": "2025-ROLL-CVPR",
+    "year": 2025,
+    "method": "ROLL",
+    "venue": "CVPR",
+    "title": "ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2025-ROLL-CVPR.pdf",
+    "sha256": "7ff5be71c74aed2f6c0d06e920552608a4d6530b018d5cf80db0f28369f95901",
+    "bytes": 4860694,
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html",
+    "pdf_sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-ROLL-CVPR.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2025-SSA-MVC-NeurIPS",
+    "year": 2025,
+    "method": "SSA-MVC",
+    "venue": "NeurIPS",
+    "title": "Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2025-SSA-MVC-NeurIPS.pdf",
+    "sha256": "9bb76a60552437ba5f34fda945f1184304d20cad9df7eef97dbd6e990818fc76",
+    "bytes": 3849585,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/65338cfb603d4871a2c38e53a3e039c9-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2025/file/65338cfb603d4871a2c38e53a3e039c9-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2025-SSA-MVC-NeurIPS.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-CANDY-NeurIPS",
+    "year": 2024,
+    "method": "CANDY",
+    "venue": "NeurIPS",
+    "title": "Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2024-CANDY-NeurIPS.pdf",
+    "sha256": "ebfa1b1c95fed57745b8d135d23dffa9743a1bcd6bacf20b9fe1ad9b6baf547a",
+    "bytes": 17189233,
+    "source_page": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbe81b08f7dc4dd8b43bc62dedfd9662-Abstract-Conference.html",
+    "pdf_sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/file/dbe81b08f7dc4dd8b43bc62dedfd9662-Paper-Conference.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-CANDY-NeurIPS.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-FUMC-IJCAI",
+    "year": 2024,
+    "method": "FUMC",
+    "venue": "IJCAI",
+    "title": "Fast Unpaired Multi-view Clustering",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2024-FUMC-IJCAI.pdf",
+    "sha256": "d3b5c5bfa407396c301fcf53e52e2c13ccef7555100639ee5e4677ecd9051de2",
+    "bytes": 880798,
+    "source_page": "https://ijcai.org/proceedings/2024/496",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2024/0496.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-FUMC-IJCAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-VITAL-ACMMM",
+    "year": 2024,
+    "method": "VITAL",
+    "venue": "ACM MM",
+    "title": "Robust Variational Contrastive Learning for Partially View-unaligned Clustering",
+    "category": "03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐",
+    "path": "papers/03_噪声鲁棒多视角聚类/02_跨视图对应关系与不对齐/2024-VITAL-ACMMM.pdf",
+    "sha256": "da268af05ad68a536dfdf560ce69376353b52ffcc2684c88c61f0dbee96281be",
+    "bytes": 1879460,
+    "source_page": "https://openreview.net/pdf?id=eZpm234cw2",
+    "pdf_sources": [
+      "https://xlearning-lab.com/assets/2024-ACM-MM-Robust-Variational-Contrastive-Learning-for-Partially-View-unaligned-Clustering.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-VITAL-ACMMM.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-DIVIDE-AAAI",
+    "year": 2024,
+    "method": "DIVIDE",
+    "venue": "AAAI",
+    "title": "Decoupled Contrastive Multi-View Clustering with High-Order Random Walks",
+    "category": "03_噪声鲁棒多视角聚类/03_伪配对与稳健对比学习",
+    "path": "papers/03_噪声鲁棒多视角聚类/03_伪配对与稳健对比学习/2024-DIVIDE-AAAI.pdf",
+    "sha256": "689a6bb77c722e531dec29b448678a2a49bca608dcdf6735ca672728d0a43dd3",
+    "bytes": 458859,
+    "source_page": "https://ojs.aaai.org/index.php/AAAI/article/view/29330",
+    "pdf_sources": [
+      "https://ojs.aaai.org/index.php/AAAI/article/download/29330/30509"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-DIVIDE-AAAI.pdf",
+    "supplements": []
+  },
+  {
+    "id": "2024-R-CMK-IJCAI",
+    "year": 2024,
+    "method": "R-CMK",
+    "venue": "IJCAI",
+    "title": "Robust Contrastive Multi-view Kernel Clustering",
+    "category": "03_噪声鲁棒多视角聚类/03_伪配对与稳健对比学习",
+    "path": "papers/03_噪声鲁棒多视角聚类/03_伪配对与稳健对比学习/2024-R-CMK-IJCAI.pdf",
+    "sha256": "09670f0b3a4c040bac61cf96623c8ed63399770c01b6f12d29f1b2881f4540bd",
+    "bytes": 1890284,
+    "source_page": "https://ijcai.org/proceedings/2024/546",
+    "pdf_sources": [
+      "https://ijcai.org/proceedings/2024/0546.pdf"
+    ],
+    "publication_status": "published",
+    "version_note": "",
+    "original_filename": "2024-R-CMK-IJCAI.pdf",
+    "supplements": []
+  }
+]
